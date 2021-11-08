@@ -1,0 +1,9 @@
+ls
+cd naam van map
+mkdir naam van map
+git status 
+git log
+git add
+git commit -m ""
+git log --oneline 
+git push
